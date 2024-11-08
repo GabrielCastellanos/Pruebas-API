@@ -16,7 +16,7 @@ Estas son las nuevas funcionalidades:
 
 * POSTMAN
 * Google sheets
-* JIRA
+* JIRA  (Link al reporte de errores en JIRA: https://acortar.link/qjdDmM)
 
 # Conclusiones
 
